@@ -1,0 +1,2 @@
+Faça a importação dos arquivos de estrutura SQL para dentro de seu banco de dados MySQL.
+Configure o arquivo classes.php com o IP, usuario e senha de seu servidor MySQL.
