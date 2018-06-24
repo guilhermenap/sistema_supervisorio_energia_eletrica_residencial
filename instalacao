@@ -1,2 +1,8 @@
-Faça a importação dos arquivos de estrutura SQL para dentro de seu banco de dados MySQL.
-Configure o arquivo classes.php com o IP, usuario e senha de seu servidor MySQL.
+
+*** É necessário a utilização de um sevidor que contenha Apache e  MYSQL ***
+
+1 - Faça a importação dos arquivos de estrutura SQL para dentro de seu banco de dados MySQL.
+2 - Configure o arquivo classes.php com o IP, usuario e senha de seu servidor MySQL.
+3 - Dentro do banco de dados crie valores de usuario e senha dentro da tabela "usuarios" para acessar o sistema.
+
+Qualquer duvida entrar em contato através do email guilherme_183@hotmail.com
